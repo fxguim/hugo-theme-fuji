@@ -1,0 +1,44 @@
+[sidebarToc]
+    other = "TOC"
+
+[sidebarPages]
+    other = "Páginas"
+
+[sidebarTags]
+    other = "Tags"
+
+[sidebarLinks]
+    other = "Links"
+
+[sidebarBangumiChart]
+    other = "Bangumi"
+
+[footerPoweredFront]
+    other = "Powered by "
+
+[footerPoweredEnd]
+    other = " "
+
+[postMetaNoTag]
+    other = "No tag"
+
+[postMetaWordCount]
+    other = " palavras"
+
+[postMetaReadingTime]
+    other = " minutos"
+
+[postCopyrightFront]
+    other = "Unless otherwise noted, the content of this site is licensed under "
+
+[postCopyrightEnd]
+    other = "."
+
+[postComment]
+    other = "Carregar commentários"
+
+[archivesTotalPages]
+    other = "Total de relatos: "
+
+[tagsCurrentTag]
+    other = "Relatos com a tag {{ .Title }}: "
